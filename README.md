@@ -1,4 +1,4 @@
 # Hello World!
 ## Sub-headline
-This is a description of my Repository
-xyz
+New description of the repository "hello-world"
+Now with nav!
